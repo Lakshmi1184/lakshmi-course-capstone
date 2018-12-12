@@ -1,0 +1,12 @@
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.csprojAssemblyReference.cache
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.Properties.Resources.resources
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.csproj.GenerateResource.cache
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\C Project\CoursesLatest\Courses\bin\Debug\Service-based Database1.mdf
+C:\C Project\CoursesLatest\Courses\bin\Debug\Service-based Database1_log.ldf
+C:\C Project\CoursesLatest\Courses\bin\Debug\Courses.exe.config
+C:\C Project\CoursesLatest\Courses\bin\Debug\Courses.exe
+C:\C Project\CoursesLatest\Courses\bin\Debug\Courses.pdb
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.exe
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.pdb
+C:\C Project\CoursesLatest\Courses\obj\Debug\Courses.frmStudentCoursesDetails.resources
